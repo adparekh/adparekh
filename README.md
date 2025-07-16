@@ -32,7 +32,7 @@ I'm currently expanding my skills in:
 - 🎭 **Facial Reenactment System** – GAN-based pipeline for real-time face parsing and expression transfer  
 - 🧪 **Question Answering with GPT-2** – Fine-tuned GPT-2 model on SQuAD dataset with tokenized attention masking  
 - 📊 **London Bike Data Dashboard** – Tableau visualization with weather correlations and moving averages  
-- 📦 **Inventory Management App** – Full-stack CRUD app built with React + Express + MySQL
+- 📦 **Inventory Management App** – Full-stack web application fully hosted on AWS using EC2, RDS, and S3 with a React frontend and RESTful backend
 
 ## 📫 Let's Connect
 
